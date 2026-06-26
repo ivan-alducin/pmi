@@ -1,0 +1,294 @@
+# LA&C AI Monthly Newsletter — July Edition (Mockup Spec)
+
+**Audience:** Broader IT Regional Team (LA&C)
+**Tone:** Clear, practical, business-oriented, celebratory and insightful where relevant
+**Goal:** Useful > informative. Action-oriented. Showcase impact, lessons, and progress.
+**Edition cadence:** Monthly (July 2026 release)
+**Editor:** Ivan Fuentes (PMI Tech LA&C)
+
+---
+
+## Section 0 — Header / Identity (carry over from June edition)
+
+**Header label:** AI LA&C Monthly Newsletter | PMI Tech | July 2026 Edition
+**Tagline:** *Accelerate AI adoption and AI value creation across LA&C*
+
+**Mission pillars to display (same as June, no changes):**
+- **Growth — Change at Scale:** Drive adoption and growth by partnering with AI Enthusiasts and P&C to execute engagement, communication, and upskilling programs.
+- **Value — Speed to Impact:** Accelerate priority AI use cases by orchestrating PoCs, pilots and scaling efforts with domain teams, AI Enthusiasts, vendors and AI Factory using the Lead → Build → Scale mode.
+- **Governance — Clarity & Trust:** Act as the market-level SPOC for AI governance and technology, providing end-to-end (Market – Regional – Global) guidance of the process.
+
+---
+
+## 1) Editorial Note
+
+**Headline:** *Wrapping up the AI World Cup and stepping into the next chapter*
+
+### Content to include:
+
+This July edition closes a milestone chapter for LA&C IT: the **AI Regional Championship (AI World Cup) has officially concluded** after 5+ weeks of structured challenges, agent building, and live face-offs. At the same time, the region is now entering a new phase of focus on **agentic AI execution at scale**, with major movements on **SAIL (Scalable AI Lifecycle)**, the **LA&C Copilot Agent Catalog**, **TAM AI Community**, and the continued execution of strategic PoVs like **ISAbella 2.0** and the newly raised **OXXO VoC**.
+
+Following Tony's June feedback, this edition leans more **insightful**: instead of just listing results, we share what the team **actually learned**, what **tools they mastered**, what **challenges they faced**, and how that experience is now being applied to real regional projects.
+
+**This issue helps the broader IT team answer:**
+- What did we build during the AI World Cup, and what did we learn?
+- Where is regional AI execution heading next?
+- What new use cases are being raised, and what should I watch?
+
+---
+
+## 2) Feature of the Month
+
+**Headline:** *AI World Cup Wrap-Up — What we built, what we learned, and what we mastered*
+
+### Subtitle: An insightful look at the journey from prompts to agentic flows
+
+### Section structure (recommended for design):
+
+The Feature should be split into **four insight blocks** instead of a simple recap. Each block delivers a different angle of celebration + learning.
+
+---
+
+### Block 1 — Results: What the team accomplished
+
+The numbers tell only part of the story, but they matter:
+
+- **8 teams** competed across LA&C IT.
+- **5+ weeks** of structured challenges (Foundations → Agentic flows).
+- **Dozens of functional Copilot Agents** built — including: **ITPF Agent, ePPM Sensei, DCX Agent, Architecture Companion**, and others.
+- **Live Agent Face-Off** held at the IT Americas Sharing Session — 8 teams presented their agents live; 4 teams earned **50 bonus points** via audience vote.
+- **Week 5** moved teams into **n8n agentic playgrounds** and the **global #AgenticAIQuest** challenge.
+- **CCA spillover impact:** **300+ enrolled** in AI Ready 2026 thanks to the Champions World Cup CCA program, with **230+ passing (~79% pass rate)**.
+
+### Final Leaderboard (Champions)
+
+1. 🏆 **LAC AI GameChangers**
+2. 🥈 **Prompt Hunters**
+3. 🥉 **Jurassic Prompt**
+
+---
+
+### Block 2 — Tools the team mastered (the real value)
+
+The AI World Cup wasn't only a competition — it was a hands-on training ground that pushed every team to gain practical experience with the **full PMI AI tool stack**:
+
+| Tool | What teams learned to do |
+|---|---|
+| **Microsoft Copilot (Chat & M365)** | Advanced prompting, structured outputs, multi-step reasoning, OCR + data extraction. |
+| **Copilot Studio (Agent Builder)** | Designed and deployed functional agents using **5+ mandatory capabilities** (knowledge grounding, citations, restricted sources, custom instructions). |
+| **AI Playground (LLM Lab)** | Compared multiple LLMs head-to-head, tuned **Temperature, Top-P, Top-K**, and benchmarked outputs against the same prompt. |
+| **Power Automate** | Connected agents to enterprise workflows for the first time at scale. |
+| **n8n (Agentic Playground)** | Built **status tracker automations**, used branching/data transformations, designed flows accepting chat or form input. |
+| **#AgenticAIQuest (PMI Campus)** | Engaged with global agentic AI challenges across 5 difficulty levels. |
+
+**Key insight:** Most participants started the championship having only used Copilot Chat. They finished it able to **design agents, automate flows, and reason about LLM behavior** — a capability leap that would normally take months of formal training.
+
+---
+
+### Block 3 — Challenges the team faced (the honest reflection)
+
+Real lessons came from real friction. Here are the most common challenges teams reported:
+
+- **Data quality & OCR limitations:** Extracting structured data from low-quality PDFs/images required iteration, image rotation, and prompt refinement.
+- **Defining "what's a capability":** Teams had to learn fast that an agent feature only "counts" with **proof of work** — configuration + example run + explanation of limitations.
+- **Tool access provisioning:** Setting up access to AI Playground, Power Automate, and n8n through SIGA/IMDL was a hurdle for some — and an early lesson in operational readiness.
+- **Time management vs. depth:** Weekly challenges forced trade-offs between polishing one capability vs. broadening coverage.
+- **n8n learning curve:** Moving from a Copilot conversation interface to a **visual workflow builder** took most teams the full Week 4–5 to get comfortable with.
+
+---
+
+### Block 4 — Key learnings (insight to take forward)
+
+Six lessons surfaced repeatedly across all teams:
+
+1. **Clear framing & guardrails** — Define the problem, scope, and constraints upfront.
+2. **Prompt engineering matters** — Specific, structured prompts dramatically improve outcomes.
+3. **Iteration beats first-try perfection** — Refinement is where the value happens.
+4. **Input quality determines output quality** — Better documentation = better agents.
+5. **Tool awareness is a skill** — Know what the tool can and *can't* do, and design accordingly.
+6. **Team collaboration accelerates everything** — Early planning + shared feedback outperformed individual effort.
+
+---
+
+### Closing message
+
+> *"AI growth isn't a one-week sprint — it's a regional capability built one prompt, one agent, one workflow at a time. The agents are real. The skills are now in the team. What we do with them next is the real championship."* 🎉
+
+**Editorial recommendation for design:** Use a podium / trophy visual for the leaderboard, a small timeline for Week 1 → Week 5, and a "tools mastered" icon grid (Copilot, Copilot Studio, AI Playground, Power Automate, n8n).
+
+---
+
+## 3) Roadmap / Strategic Update
+
+**Headline:** *SAIL, Commercial Hub, ISAbella 2.0, and new use cases take the spotlight*
+
+### Content to include (organized under Value / Growth / Governance):
+
+#### 🚀 Value (Speed to Impact)
+
+- **SAIL (Scalable AI Lifecycle) — LA&C Adoption Plan:** Presented on **June 4th** at the regional governance meeting to extend AI-driven development tools (**Kiro, Forge**) to Region 4 markets. **Kiro access has now been provisioned** for several Canada users who have started hands-on validation of the initial pilot use cases. Kiro comes with strong MCP coverage out of the box (Jira, Confluence, Bitbucket, Jenkins, logging tools, API debugging, Figma); one Salesforce MCP is not yet globally approved — workarounds being scoped. Regional rollout does **not** need to wait for Canada pilot completion.
+- **Commercial Hub — AI Process Re-Imagination (Phase 1 complete):** Phase 1 findings presented in June to PMI Tech and GBS leadership. **56 processes** identified with improvement opportunities. **Globant** confirmed as assessment partner.
+- **ISAbella 2.0 (ISA Tool):** Solution architecture in advanced definition. Both the **General Overview** and **Conceptual Architecture diagrams** are near-final in LeanIX. Team validating **master data management consistency** and the file format/schema for OXXO Colombia (PoV customer).
+- **First Pass Phase I:** Kickoff meetings completed for **CA, MX, and BR** — regional CSC AI rollout milestone. IBM (global) setting up dedicated market project meetings.
+
+#### 📈 Growth (Change at Scale)
+
+- **LA&C Copilot Agent Catalog launched (MVP) — June 5th:** Central place to collect and share Copilot Agents across R4 markets. Currently in IT testing.
+- **TAM AI Community kicked off — June 3rd:** Two streams — **Commercial Productivity** (Abraham, with 9 quick-win use cases) and **Personal Productivity** (Tony, bi-weekly TAM AI Community Connect).
+- **TAM AI Community Connect — First Session (June 12):** ~20 commercial team members. **4 agents showcased live:** REEV LA&C Agent, Estrato Agent, CA DTE Buddy, DTE Asset Compiler.
+- **AR — AI Growth Plan:** Presented to the Management Team in June.
+- **Agentic AI Bootcamp:** Several AI Domain team members joined the bootcamp for AI Forward Engineers in early June.
+
+#### 🔒 Governance (Clarity & Trust)
+
+- **🆕 UC 2088 — OXXO VoC (MX):** Raised by the MX team. Featured in detail in Section 6.
+- **UC 1979 — Page Government Relations Tool (CA):** AI-powered real-time GR monitoring with **~$60K/yr projected savings**. Lara is supporting governance with the business owner.
+- **UC 1729 — AI-Powered Personalized Training & Agentic Customer Care (CA):** Presented at the global Sales & Commercial GenAI CoP. Aligning with global product roadmap.
+- **UC 1505 — AI Maturity Assessment:** Regional scope expansion accepted by governance team.
+- **CCA AI Maturity Assessment:** Questionnaire issued to MT members participating in the AI Growth event in DR. Sr & middle management sessions planned for week of June 22.
+
+---
+
+## 4) Learning & Enablement Corner
+
+**Headline:** *Build future-ready AI skills*
+
+### Content to include — keep the 4-card structure from June, refresh examples:
+
+- **AI Grand Connector — OUR DNA:** Understand how AI amplifies who we are at PMI's best.
+- **Becoming Superhuman — THE FOUNDATION:** AI fundamentals (Concepts, Generative AI, Agents, Prompting Engineering, Responsible Use).
+- **Agentic AI — HOT TOPIC:** Lead trending topic, core of **#AgenticAIQuest** and the Agentic Playground for hands-on experimentation.
+- **Copilot Resources — PRODUCTIVITY:** Centralized overview of each agent's status, new models available, upcoming releases, and documentation.
+
+**New for July (add or rotate):**
+- **🆕 Kiro Setup Guide (June 17, AI Domain Team):** Step-by-step guide for joining the **SAIL Kiro pilot** as it rolls out across LA&C markets.
+- **🆕 n8n Playground:** Now a recognized capability area within the LA&C IT team thanks to the AI World Cup. Recommended next step for anyone interested in agentic flow automation.
+
+---
+
+## 5) Adoption Snapshot / KPI Block
+
+> ⚠ Still **TENTATIVE** — pending LA&C-specific filtered data from MS 365 Copilot Adoption Power BI report.
+
+### Content to include if data is confirmed before publication:
+
+- **LA&C M365 Copilot licensed users (as of May):** ~**1,850 users**, including **709 under the regional reporting line**.
+- **New license access model (announced May 8):** **10,000 additional licenses** secured at significantly reduced rates. Employees can **self-request via IMDL** (auto-approved). Unused licenses auto-reclaimed.
+- **CCA AI Ready uptake from the World Cup:** **300+ enrolled / 230+ passed (~79% pass rate)**.
+
+**If LA&C metrics are not validated in time:** Use the same "data to be confirmed for LA&C in future editions" placeholder approach from the June edition.
+
+---
+
+## 6) Use-Case / Market Spotlight
+
+**Headline:** *OXXO VoC — Turning in-store consumer signals into real-time action*
+
+### Why this spotlight
+
+Last edition we featured **ISAbella 2.0**. For July, we rotate to a brand-new, high-impact use case raised by the **MX team**: **OXXO Voice of Consumer (VoC) — Use Case ID 2088**. This is one of the most exciting commercial AI use cases entering the regional pipeline, with multi-source signal capture (audio, video, behavioral data) and real-time generative AI insights.
+
+### Content to include:
+
+#### What is OXXO VoC?
+
+OXXO VoC is a **real-time, AI-powered Voice of Consumer engine** designed to continuously transform raw in-store signals into **actionable insights, recommendations, and automated actions** — directly at OXXO stores in Mexico (initial scope) in partnership between PMM and OXXO.
+
+The use case was submitted by the MX team and is being co-sponsored by **Andre Urruticoechea (MX)**, **Nick Ciccolo**, and **Tony Yong (Regional AI Domain Lead)**, with **Ivan Fuentes** providing MX-side governance support. Use Case ID **2088** was issued on **June 17**, and the team is preparing to present the use case to the **C&C Community of Practice (June 19)** and the **regional AI Governance team (June 20)**.
+
+#### Why it matters — the business problem
+
+Today, OXXO and PMM rely primarily on **transactional and behavioral data** — meaning they can see *what* consumers buy, but not *why* they buy (or why they don't):
+
+- **In-store frictions remain invisible** (product unavailability, poor guidance, long queues).
+- **Lost sales and conversion leakage are not quantified or attributed.**
+- **Consumer feedback is fragmented** across sources and not systematically converted into action.
+
+The result: decisions are reactive (based on sales outcomes) instead of proactive, and CX/revenue improvement opportunities are missed in real time.
+
+#### The target state — what the AI engine will do
+
+OXXO VoC moves the organization from *"We know what happened"* to *"We know why it happened and can fix it immediately"*:
+
+1. **Capture & structure human interactions** — Use NLP to convert store interactions (audio) into structured insights. Extract intent, sentiment, and root causes (e.g., "out of stock," "confusion," "bad service").
+2. **Generate insights automatically** — Identify recurring patterns in consumer pain points, staff behavior, conversion drivers, and drop-offs. Dynamically prioritize issues based on business impact.
+3. **Support hyper-personalized CX** — Adapt content, recommendations, and engagement based on shopper mission and context.
+4. **Create a closed-loop learning system** — Capture → Analyze → Act → Measure, embedded into weekly/monthly decision-making routines.
+
+#### Expected business value (tentative — to be finalized in governance)
+
+- **Quantitative:** Revenue uplift through improved sell-out and conversion rates (e.g., reduced lost sales from out-of-stock); efficiency gains via faster issue detection and resolution (reduced queue times, optimized staffing, replenishment response).
+- **Qualitative:** Enhanced CX and loyalty (measured via NPS, satisfaction, loyalty intention); strengthened decision-making through better visibility of in-store drivers.
+- **KPI framework envisioned:** **Outcome KPIs** (sell-out, conversion rate, NPS) + **Driver KPIs** (traffic, availability, interaction, service metrics).
+
+#### Current status (as of late June)
+
+- ✅ Use case submitted and **ID 2088 issued (June 17)**.
+- ✅ **AI Governance touchpoint completed** with the MX team.
+- 🟡 Preparing presentation to **C&C CoP (June 19)** and **regional AI Governance team (June 20)**.
+- 🟡 Tony assigned MX-side governance support to **Ivan Fuentes**.
+
+#### Why this is a great spotlight for the IT regional team
+
+- **It's a real, in-flight use case** — not a theoretical pitch.
+- **It combines multi-modal AI** (NLP, audio processing, generative AI) — a more advanced architecture than most regional use cases to date.
+- **It directly impacts commercial KPIs** (sell-out, NPS, lost sales).
+- **It originated bottom-up from the MX market**, demonstrating that regional governance and capability building (including SAIL, the World Cup, and the AI Governance Navigator) are paying off — local teams now know **how** and **where** to bring AI ideas forward.
+
+---
+
+## 7) Governance / Process Update
+
+**Headline:** *Clarity and trust — new use cases and process updates*
+
+### Content to include:
+
+- **🆕 UC 2088 — OXXO VoC (MX):** See Section 6.
+- **🆕 UC 1979 — Page Government Relations Tool (CA):** AI-powered real-time GR monitoring with ~$60K/yr projected savings. *Status: in governance process.*
+- **🆕 UC 1729 — AI-Powered Personalized Training & Agentic Customer Care (CA):** Presented at global Sales & Commercial GenAI CoP. *Status: alignment with global product roadmap in progress.*
+- **UC 1505 — AI Maturity Assessment:** Scope expansion from CCA to Regional AI growth event accepted by the regional AI governance team.
+- **AI Governance Navigator:** PMI's new interactive "subway-map style" governance guide is now available on the AI@PMI Information Hub.
+- **AI Architecture Standards (UGD-616 v1.2):** Approved and effective from April 17, 2026.
+
+---
+
+## 8) Upcoming Actions / Important Dates
+
+**Headline:** *What to watch in July*
+
+### Content to include:
+
+- **🗓 Monthly LAC AI@IT Update — early July** — Next regional sync for AI domain leads.
+- **🗓 SAIL Kiro Pilot — Canada validation in progress / LA&C onboarding starting** — observations on Kiro capabilities and use case feasibility to be shared next sync.
+- **🗓 TAM AI Community Connect — bi-weekly cadence** — next live agents showcase coming.
+- **🗓 CCA AI Maturity Assessment — Sr & Middle Management session (week of June 22)** — results consolidation expected in July.
+- **🗓 OXXO VoC — Governance progression** — presentation to C&C CoP and regional AI Governance team in June; July will likely bring the next governance phase (architecture / pilot scope).
+- **🗓 Newsletter Retro Session** — Following Tony's feedback, the editorial team is scheduling a retro to align timelines, ownership, and content sources.
+- **🗓 Region 4 AI Growth Event** — Upcoming regional event.
+
+### Asks to the region:
+
+- **Try the Copilot Agent Catalog (MVP)** and share feedback.
+- **Nominate your market's next agent** for the TAM AI Community Connect showcase.
+- **Submit your AI use cases** through the AI Governance Navigator.
+- **Share lessons learned** from the AI World Cup in the AI Teams Channel — they may end up in the next newsletter!
+- **Share feedback** for the newsletter using the [Feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=XqaGizo8BkSKwxmmtcxSvJ9f7gwnsYhJm7vjZ8mMVmhUMTdMTlhHM0NFVkVZMUI1NkJMRUpYUzUyUS4u).
+
+---
+
+## Closing footer (carry over from June)
+
+*Thank you! Let us know what you'd like to see in upcoming newsletters — feedback form linked above.*
+*AI LA&C Regional Domain — PMI Tech*
+
+---
+
+## ✅ Editorial notes for Claude (when generating the PPT)
+
+- **Keep the layout consistent with the June edition** (same colors, fonts, section dividers, AI bot avatar on the side, PMI Tech identifier in the header).
+- **Section 2 (Feature of the Month)** — should NOT just recap. Use the **4-block insight structure** (Results, Tools Mastered, Challenges, Key Learnings). Suggested visuals: podium / trophy for leaderboard, mini Week 1→5 timeline, icon grid of mastered tools (Copilot, Copilot Studio, AI Playground, Power Automate, n8n).
+- **Section 6 (Market Spotlight)** — make this a strong "case study"-style spread. Suggested visuals: store icon, OXXO logo placeholder, "from data → decision → action" flow diagram, KPI framework graphic (Outcome KPIs + Driver KPIs).
+- **Section 5 (Adoption Snapshot)** — keep the "Tentative" / "TBD" disclaimer visible until data is confirmed.
+- **Section 7 (Governance)** — clean, scannable governance digest (icon + title + 1 line each). Highlight UC 2088 as 🆕.
+- Use **"AI News in the Region"** label (not "Important Updates") — already adopted in June.
+- Reinforce the AI Teams Channel as the place to engage (per Sofia's June feedback).
