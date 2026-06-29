@@ -1,0 +1,605 @@
+# 🚀 IT CX Onboarding · Week 1
+## PMI as a Company & Organizational Structure
+
+> **Source MD for Claude → PPT generation**
+> **Author:** Fuentes, Ivan – Lead IT Integration, PMI Tech / IT CX – Mexico
+> **Date:** June 2026
+> **Audience:**
+> - **Arzate Martinez, José Antonio** *(contracted)* – direct report to Ivan Fuentes, supporting **Availability** and other TBD tasks
+> - **Ochoa Paucic, Diego Alejandro** *(contracted)* – reporting to **Fuentes, Lilia** (general onboarding leveraged for both)
+> **Cohort:** IT CX Mexico Interns – Summer 2026
+
+---
+
+## How to use this document
+This Markdown file is the **content blueprint for Week 1** of the IT CX onboarding program. It is structured slide-by-slide so it can be fed directly into Claude (or any LLM-to-PPT generator) to produce a presentation deck. Each section follows the same structure:
+
+- **Slide N – Title**
+- **Layout suggestion**
+- **Key points** *(slide bullets)*
+- **Speaker notes** *(what Ivan will say)*
+- **Visual suggestions** *(what diagram/image/chart to include)*
+
+A short **References & internal sources** section is included at the end for traceability.
+
+---
+
+# 📑 Week 1 – Slide-by-slide content
+
+---
+
+## Slide 1 – Cover
+
+**Layout suggestion:** Title slide with full-bleed background image of PMI Tech LA&C / Mexico City skyline.
+
+**Key points:**
+- **Title:** Welcome to PMI Tech – IT CX
+- **Subtitle:** Week 1 · PMI as a Company & Organizational Structure
+- **Presenter:** Fuentes, Ivan – Lead IT Integration (IT CX, LA&C / Mexico)
+- **For:** Arzate Martinez, José Antonio · Ochoa Paucic, Diego Alejandro
+- **Date:** June 2026
+
+**Speaker notes:**
+Welcome guys. Over the next six weeks we'll take you from "first day at PMI" to "ready to contribute on real projects." This Week 1 deck is the foundation: who we are as a company, why we exist, how we are organized, and where the IT CX team sits in that picture. José Antonio, you'll report to me directly and support our **Availability** workstream first; Diego, you'll report to Lilia Fuentes but we want both of you to share the same baseline understanding of PMI.
+
+**Visual suggestions:**
+- PMI corporate logo (top right)
+- Hero photo (e.g., Mexico City Polanco office, or PMI smoke-free product portfolio image)
+- "Welcome aboard" badge
+
+---
+
+## Slide 2 – Agenda for today (Week 1)
+
+**Layout suggestion:** Two-column agenda with icons.
+
+**Key points:**
+1. PMI at a glance 🌍
+2. Our Purpose, Mission & "Believe" 💡
+3. Value Plan 2030+ – six sustainability pillars 🌱
+4. Business Units & Regions 🗺️
+5. PMI Functions overview ⚙️
+6. PMI Tech – Strategic Framework 🏛️
+7. PMI Tech 2026 OGSMs 🎯
+8. Region 4 LA&C & Mexico structure 🇲🇽
+9. DI&A Hub & Spoke 🔄
+10. IT vs DI&A RACI split 🤝
+11. Where IT CX sits in the picture 🎯
+12. IT CX Mexico team intro 👥
+13. Glossary + Week 1 deliverable & next steps 📚
+
+**Speaker notes:**
+We will spend roughly 90 minutes today. The goal is not memorization – it's to leave with a **mental map** of PMI you can navigate with. By Friday, each of you will produce a 1-page "PMI org map" showing where IT CX sits and who the key stakeholders are.
+
+**Visual suggestions:**
+- Numbered checklist or stepper graphic
+
+---
+
+## Slide 3 – Welcome & 6-week onboarding roadmap
+
+**Layout suggestion:** Horizontal timeline (6 milestones).
+
+**Key points:**
+- **Week 1 – PMI as a Company & Org Structure** *(you are here)*
+- Week 2 – IT CX Function Deep Dive
+- Week 3 – PMI Software Landscape & Access Management (SIGA / IMDL)
+- Week 4 – PMI IT Portfolio: Projects we run (Availability, Consumer 360, Brick Loyalty, SAIL, …)
+- Week 5 – PMI Tech Policies, Frameworks & Ways of Working (ITPF, ePPM gates)
+- Week 6 – Hands-on shadowing & first contribution
+
+**Speaker notes:**
+Think of this program as a funnel: we start wide (company, purpose, structure) and progressively zoom in to where you'll actually contribute. Weeks 1–2 are context, Week 3 enables you operationally (tools and access), Weeks 4–5 expose you to portfolio and governance, and Week 6 is where you start "doing" – shadowing meetings, contributing to a backlog item, and drafting your first deliverable.
+
+**Visual suggestions:**
+- Timeline with 6 milestones; highlight Week 1
+- Use small icons (globe, gears, lock, folder, scroll, hands)
+
+---
+
+## Slide 4 – PMI at a glance 🌍
+
+**Layout suggestion:** Stat block – 6 key numbers + map of presence.
+
+**Key points:**
+- **Philip Morris International (PMI)** – global consumer goods leader transitioning from combustible tobacco to **smoke-free products**
+- HQ: **Stamford, Connecticut, USA** · Listed on NYSE: **PM**
+- ~**80,000 employees** globally
+- Products sold in ~**180 markets**; smoke-free portfolio now in **108 markets**
+- **Q1 2026:** smoke-free business delivered **43% of total global net revenues**
+- Core brands: **IQOS** (heat-not-burn), **ZYN** (nicotine pouches), **VEEV** (e-vapor)
+- Recognized #1 in FMCG / #4 overall on **Forbes Net Zero Leaders** list
+
+**Speaker notes:**
+Two things stand out about PMI in 2026. First, the scale: 180 markets, 80,000 people, a presence in virtually every economy on Earth. Second, the **transformation**: 43% of revenue is already coming from smoke-free products – a huge shift from the company's historical 100% combustibles base. This is why technology matters so much: digital, data, and AI are the rails that make the transformation possible.
+
+**Visual suggestions:**
+- World map highlighting 180 markets
+- Logos: IQOS, ZYN, VEEV
+- Big stat tiles (180 / 108 / 43% / 80k)
+
+---
+
+## Slide 5 – Our Purpose, Mission & "Believe" 💡
+
+**Layout suggestion:** Three-tier pyramid or stacked banner (Purpose → Mission → Cultural Anchor).
+
+**Key points:**
+- **Our Purpose:** *Help the world live better by delivering a smoke-free future.*
+- **Our Mission (PMI Tech):** *Power possibility* – enable the business to turn ambition into action through technology.
+- **Cultural anchor – "Believe":** Believing is making the impossible a matter of opinion; trusting the journey even when the destination isn't fully visible.
+
+**Speaker notes:**
+Whatever role you play at PMI, your work ultimately serves the **purpose**. PMI Tech's mission – "Power Possibility" – is the bridge: we're not "just IT"; we're the partners that turn business ambition into technological reality. "Believe" is the cultural glue you'll hear repeatedly in town halls and internal comms. It's an act of courage: investing in yourself, in others, and in a smoke-free future even before the destination is visible.
+
+**Visual suggestions:**
+- Pyramid with Purpose at base, Mission in middle, Believe at top
+- Subtle PMI brand colors
+
+---
+
+## Slide 6 – Value Plan 2030+ · 6 Sustainability Pillars 🌱
+
+**Layout suggestion:** 2x3 grid of pillar cards.
+
+**Key points:**
+1. **Consumers** – better choices for adults who would otherwise continue smoking
+2. **Circularity** – reduce, reuse, recycle across product lifecycle
+3. **Our Workforce** – diverse, inclusive, future-ready talent
+4. **Workers in our Value Chain** – living income, due-diligence, child-labor prevention
+5. **Climate** – Net Zero by **2040** (10 years earlier than industry standard)
+6. **Nature** – land, water, biodiversity stewardship
+
+**Bonus context:** 2025 results – **0% child-labor prevalence** among contracted tobacco farmers; **99.6%** earning a living income.
+
+**Speaker notes:**
+You may be wondering "why does a tobacco-transition company care so much about sustainability?" Because PMI is now measured – by investors, regulators, employees, and consumers – on more than just financial results. Value Plan 2030+ is PMI's commitment to deliver not only commercial growth, but **societal value**. As IT CX, our consumer-360 data work directly feeds the **Consumers** pillar.
+
+**Visual suggestions:**
+- 6 icons (people, recycle, team, hands, leaf, globe)
+- Small "Forbes #1 FMCG Net Zero Leader" badge
+
+---
+
+## Slide 7 – PMI Corporate Structure: Business Units 🏢
+
+**Layout suggestion:** Three large columns – one per BU.
+
+**Key points:**
+- **PMI International** – the international business (everything outside US/Sweden)
+- **PMI US** – the US affiliate (recently strengthened after Swedish Match consolidation, includes ZYN US business)
+- **ASPEYA** – Wellness & Healthcare BU (Vectura, Fertin Pharma – science / inhalation businesses)
+- Plus enabling functions shared across BUs (Global Services, Tech, Finance, Legal, etc.)
+
+**Speaker notes:**
+PMI is structured around **three Business Units** that share a common tech and services backbone. PMI International is the largest (where Mexico, Brazil, Europe, Asia, Africa, etc. sit). PMI US runs the US market, including ZYN. ASPEYA is the wellness and inhalation science play – think Vectura and Fertin Pharma. PMI Tech serves all three.
+
+**Visual suggestions:**
+- Three columns with BU logos / icons
+- Footer note: "PMI Tech delivers technology services to all three BUs"
+
+---
+
+## Slide 8 – PMI Regions (PMI International) 🗺️
+
+**Layout suggestion:** World map with 4 colored regions.
+
+**Key points:**
+- **Region 1 – EA&A + PMI GTR:** East Asia, Australia & Global Travel Retail
+- **Region 2 – SSEA, CIS & MEA:** South & South-East Asia, Commonwealth of Independent States, Middle East & Africa
+- **Region 3 – Europe:** All European markets
+- **Region 4 – LA&C:** Latin America & Canada ← **our region**
+- Plus: SWMA (Swedish Match), GBS (Global Business Services), AI, EA & Innovation, BMS, Tech, etc.
+
+**Speaker notes:**
+Within PMI International, markets are grouped into **four regions**. We sit in **Region 4 – LA&C**, which covers Latin America and Canada – including Mexico, Brazil, Argentina, Colombia, Chile, the Andean cluster, CARICAM (Central America & Caribbean), and Canada. We'll zoom into Region 4 in a few slides.
+
+**Visual suggestions:**
+- Color-coded world map (R1 blue, R2 green, R3 yellow, R4 red)
+- Highlight Mexico with a pin
+
+---
+
+## Slide 9 – PMI Global Functions ⚙️
+
+**Layout suggestion:** Honeycomb or grid of function tiles.
+
+**Key points:**
+- **Commercial** – Brand, Marketing, Sales, Trade Engagement, Operations
+- **Consumer Experience (CX)** – consumer engagement, omnichannel, loyalty (this is the business side IT CX serves)
+- **PMI Tech** – formerly "IT"; technology, software, infrastructure, cybersecurity
+- **DI&A** – Data, Insights & Analytics (Hub & Spoke since 2025)
+- **People & Culture (P&C)**
+- **Finance**
+- **Legal, External Affairs & Compliance**
+- **Operations / Supply Chain / R&D / Science**
+- **Sustainability / Communications**
+
+**Speaker notes:**
+PMI organizes its work along functional lines that cut across business units and regions. Two functions are particularly relevant to you: **Consumer Experience (CX)** – the business stakeholders we serve – and **PMI Tech** – our home – and **DI&A** – our closest technology partner. Notice that "CX" is a **business function** focused on the consumer journey; "IT CX" is the technology team that supports it.
+
+**Visual suggestions:**
+- Function tiles with icons
+- Highlight CX, PMI Tech, DI&A as our "triangle"
+
+---
+
+## Slide 10 – CX vs Commercial vs IT CX – clearing the confusion 🎯
+
+**Layout suggestion:** Venn diagram (3 circles).
+
+**Key points:**
+- **Commercial** = end-to-end business engine: brand, marketing, sales, trade, operations
+- **CX (Consumer Experience)** = the business sub-function focused on consumer journey, omnichannel, loyalty, engagement
+- **IT CX** = the **technology team** that builds and supports the digital products serving Commercial & CX needs (CRM, consumer 360, omnichannel platforms, loyalty integrations, BI for marketing)
+
+**Speaker notes:**
+This is the question every newcomer asks. Commercial is the umbrella – think of brand managers, sales leads, trade teams. CX is a slice of Commercial focused specifically on the consumer journey and engagement. **IT CX (where you are) is the tech function that powers both.** Our internal customers are the CX and broader Commercial teams.
+
+**Visual suggestions:**
+- 3-circle Venn (Commercial big circle / CX inside / IT CX bridging tech)
+
+---
+
+## Slide 11 – PMI Tech: Purpose & Mission 🏛️
+
+**Layout suggestion:** Banner with two-tier message.
+
+**Key points:**
+- **PMI Tech Purpose:** same as PMI's – *help the world live better by delivering a smoke-free future*
+- **PMI Tech Mission:** *Power Possibility* – turn ambition into action through technology, by partnering closely with stakeholders
+- PMI Tech recently rebranded from "IT" to **PMI Tech** to signal evolution from "service provider" to **strategic business partner**
+
+**Speaker notes:**
+PMI Tech recently changed its name from "IT" to "PMI Tech" – more than cosmetic. The shift symbolizes our move from being seen as a cost center / ticket-takers to being seen as a **strategic partner** that creates and shapes business value through technology.
+
+**Visual suggestions:**
+- "From IT → PMI Tech" arrow
+- Tagline "Power Possibility"
+
+---
+
+## Slide 12 – PMI Tech Strategic Framework: 4 Excellence Pillars 🏛️
+
+**Layout suggestion:** 4-column pillar layout with icons.
+
+**Key points:**
+- **Delivery Excellence** – accelerate time-to-impact (idea → adoption); shorten cycle times, strengthen ownership, ensure measurable business value
+- **Service Excellence** – reliable, consistent, secure, resilient services; speed, quality, predictability build trust
+- **Organizational Excellence** – strengthen governance, decision-making, platforms & capabilities; align ambition with ability to deliver in an AI-powered world
+- **Financial Excellence** – run lean, prioritize clearly, make every dollar count toward scalable value
+
+**Speaker notes:**
+These four pillars are how PMI Tech invests and operates. They are the lens for every OGSM, every project, every investment decision. **Delivery** = how fast we ship value. **Service** = how reliably we keep things running. **Organizational** = whether we have the right structure and skills. **Financial** = whether we spend wisely.
+
+**Visual suggestions:**
+- 4 pillars / columns with icons (rocket, gear, people, $)
+- Background = PMI Tech brand visual
+
+---
+
+## Slide 13 – PMI Tech 2026 OGSMs 🎯
+
+**Layout suggestion:** Table – Pillar × Objective × Goal × Baseline × Target.
+
+**Key points (table):**
+
+| Pillar | Objective | Goal (2026 Target) | Baseline | Aspiration |
+|---|---|---|---|---|
+| Delivery | Grow PMI's business; accelerate time-to-impact | Co-deliver **100% Key Initiatives**, **>85% portfolio** as per value case | 100% / 85% | >100% / >85% |
+| Service | Tech-powered service org: speed, quality, consistency | Service Excellence Maturity index → **3.6 (4.0 aspirational)** | 3.1 | 4.0 |
+| Service – Security | Protect PMI's people, data, ops | Top-quartile **Cyber Maturity Index → 3.6** | 3.51 | 3.6 |
+| Organizational | Future-ready workforce; AI-powered | "Digital Disruptor" status on **Digital Maturity Index by 2028**; institutionalize PMI-wide digital intelligence | 2.65 | 3.1 |
+| Financial | Run lean, invest wisely | **AI $ impact: $40M** (from $11.2M baseline); IT spend within **3.2–3.5% of revenue** | $11.2M / 3.2% | $40M / 3.2% |
+
+**Speaker notes:**
+OGSM = **Objective, Goal, Strategy, Measure**. Every Excellence Pillar has its own OGSM. These five numbers are how PMI Tech keeps score in 2026. We don't need you to memorize them, but you should know they exist and recognize them when you see them in a Town Hall or a project update.
+
+**Visual suggestions:**
+- Clean table; color-code each pillar
+- Mini bar charts next to each row to show baseline→target
+
+---
+
+## Slide 14 – PMI Tech Region 4 (LA&C) 🇲🇽
+
+**Layout suggestion:** Org chart – Patricio at top, then direct reports.
+
+**Key points:**
+- **Region 4 Director:** Sandoval, Patricio (Director PMI Tech Region 4)
+- Reports to: Schultz, Robert (VP Tech International)
+- Direct reports include:
+ - **Rojas, Yahir** – Director IT North Cluster (Mexico + CARICAM)
+ - **Codere, Patrick** – Manager IT Canada
+ - **Guzman, Gabriel** – Manager IT South Cluster
+ - **Kerr, Michael** – Manager IT Consumer Deployment LA&C
+ - **Torres, Jessica** – Manager IT Andean Cluster
+ - **Sonsino, Ariel / Baltazar, Carolinne** – Manager IT Brazil (interim led by Patricio after Carol's departure)
+- Business counterparts in LA&C: Hannappel (Regional President), Chinchilla (Mexico MD), Suarez, Trentadue (Canada), Delgado, Lategana, Rocco, Pintos, O'Farrell, Recio Ramos, etc.
+
+**Speaker notes:**
+Patricio Sandoval leads PMI Tech Region 4. Within Mexico, the IT North Cluster is run by Yahir Rojas. Michael Kerr leads Consumer deployment for the whole region – an important name because Michael is the **IT Portfolio Manager for our LA&C projects**, including the ones we'll see in Week 4. José Antonio – you'll meet several of these people directly as we work Availability with regional stakeholders.
+
+**Visual suggestions:**
+- Org chart with photos/initials
+- Highlight Mexico North Cluster in red box
+
+---
+
+## Slide 15 – Mexico IT CX Team – your colleagues 👥
+
+**Layout suggestion:** Team photo grid (or initials cards).
+
+**Key points:**
+- **Garcia, Lorena** – Manager IT CX (Ivan's manager, LA&C Consumer)
+- **Fuentes, Ivan** *(presenter)* – Lead IT Integration · José Antonio's manager
+- **Fuentes, Lilia** – Diego's manager
+- **Cano, Sergio** – Sr. Enterprise Data Architect (top collaborator)
+- **Gomez, Alejandro** – top collaborator
+- **Arevalo, Tirsa** *(contracted)* – top collaborator (Buddy candidate for José Antonio)
+- **Arzate Martinez, José Antonio** *(contracted)* – new intern (Availability)
+- **Ochoa Paucic, Diego Alejandro** *(contracted)* – new intern (Lilia's team)
+- Skip Manager: **Sandoval, Patricio** (Director PMI Tech R4)
+
+**Speaker notes:**
+This is our immediate circle. Lorena is my manager and the broader IT CX Manager for LA&C consumer. Sergio, Alejandro, and Tirsa are our top collaborators – you'll spend a lot of time with them. José Antonio – you report to me; Diego – you report to Lilia. Both of you should treat the team as one extended family during onboarding.
+
+**Visual suggestions:**
+- Card grid with name + role + 1-line responsibility
+- Color-code by reporting line (Ivan / Lilia)
+
+---
+
+## Slide 16 – DI&A: our closest tech partner 🔄
+
+**Layout suggestion:** Hub & Spoke diagram (one Hub, many Spokes).
+
+**Key points:**
+- **DI&A = Data, Insights & Analytics** – the function that turns data into business decisions
+- **Hub & Spoke operating model** introduced in 2025
+- **Global Hub** – builds scalable, AI-powered, horizontal solutions (data platform, data products, AI tools)
+- **38 Spokes** – embed in markets / categories / functions to **localize and apply** Hub solutions
+- VP DI&A: **Waterloos, Anneleen**
+- Mexico DI&A Spoke head: **Marines, Patricia**
+- Mexico DI&A talent recently transferred from IT: **Diaz, Daniel** (Manager Data Enablement), **Cano, Sergio** (Sr Enterprise Data Architect), **Sanchez Galvis, Oscar** (CCA Enterprise Data Architect)
+
+**Speaker notes:**
+DI&A is our tightest partner. They run the **enterprise data platform (DPaaS)** on Snowflake, build the data products and AI tools that power consumer insights, and operate a Hub & Spoke model. The Hub builds horizontal capabilities, the Spokes adapt them locally. Three of our former IT colleagues transferred into the Mexico DI&A Spoke on January 1, 2026 – this is important context for the next slide on RACI.
+
+**Visual suggestions:**
+- Hub & Spoke diagram (Hub in center, 38 spokes around)
+- Highlight Mexico spoke
+
+---
+
+## Slide 17 – IT vs DI&A: who does what? 🤝
+
+**Layout suggestion:** Side-by-side comparison (2 columns).
+
+**Key points:**
+
+| Domain | **IT (PMI Tech / IT CX)** | **DI&A** |
+|---|---|---|
+| **Transactional systems** | Accountable (CRM, ERP, e-commerce, loyalty…) | – |
+| **Embedded reporting on source systems** | Accountable | – |
+| **APIs & integrations from source systems** | Accountable | – |
+| **Enterprise Data Platform (DPaaS / Snowflake)** | Joint support | Accountable (data products) |
+| **Reporting & analytics / BI / Power BI** | – | Accountable |
+| **AI / ML on transactional apps** | Joint (IT accountable) | Joint (data arch + engineering + science) |
+| **Generative AI / agentic tools (DIVA, KAi, MAIA)** | – | Accountable |
+
+**Speaker notes:**
+The simplest mental model: **if it's a transactional system feeding data, it's IT. If it's a data product or analytical layer on top of DPaaS, it's DI&A.** AI sits in the middle and we collaborate. Project intake follows the regional DISD (Digital Investment & Strategy Deployment) process; both IT and DI&A heads are part of it.
+
+**Visual suggestions:**
+- 2-column comparison with color coding (blue = IT, green = DI&A, gray = shared)
+
+---
+
+## Slide 18 – Where IT CX sits in this map 🎯
+
+**Layout suggestion:** Layered diagram (Business → Tech → Data).
+
+**Key points:**
+- **Above us (our customers):** CX & Commercial business teams (Brand, Marketing, Sales, Trade, Loyalty, Care)
+- **Beside us (peer tech functions):** Other PMI Tech platforms (Commercial, Care, Loyalty, Identity), Service Excellence, Cybersecurity
+- **Below / partnering with us:** DI&A spoke (Patricia Marines team), enterprise platforms (Snowflake DPaaS, Power BI, Qualtrics)
+- **Our role:** **Translate** consumer/commercial business needs into actionable data & technology solutions, with strong governance and documentation
+
+**Speaker notes:**
+Look at IT CX as a **translator and bridge**. We sit between business stakeholders (who think in marketing campaigns and consumer journeys) and the technical delivery teams (who think in pipelines, APIs, and dashboards). Our job is to translate goals into implementable requirements, ensure shared understanding, and drive fast, value-focused decisions.
+
+**Visual suggestions:**
+- Layered "sandwich" diagram
+- IT CX in the center, with arrows up to Business and down to DI&A / Tech platforms
+
+---
+
+## Slide 19 – What we actually do (IT CX responsibilities) 📋
+
+**Layout suggestion:** 4-quadrant matrix.
+
+**Key points:**
+1. **Data Translator** – discovery & requirement workshops, translate business questions → epics/stories with acceptance criteria
+2. **Data Governance & Architecture** – maintain interface/app inventory, traceability, definition-of-done standards
+3. **Consumer Insights & BI** – roadmap, prioritization, release readiness, adoption; co-define KPIs with business
+4. **Demand Management** – Jira-based prioritized backlog, structured intake, prioritization criteria (value, risk, compliance, effort, dependencies)
+
+**Speaker notes:**
+These four buckets are how I describe IT CX to anyone in PMI. You'll see them embedded in everything we do – from a 30-minute discovery call with a brand manager all the way to a quarterly DISD funding review.
+
+**Visual suggestions:**
+- 4 quadrants with icons (chat bubble, shield, chart, kanban)
+
+---
+
+## Slide 20 – Recurring rhythms you'll be part of ⏱️
+
+**Layout suggestion:** Weekly calendar grid.
+
+**Key points:**
+- **Mondays – Catch-up structure** (Eisenhower-prioritized): Availability, Omnichannel 360 (Consumer 360), AI Domain (SAIL & Newsletter), Brick Loyalty, Others
+- **Tuesdays/Wednesdays – stakeholder syncs** (Brand, Marketing, Trade, DI&A spoke)
+- **Thursdays – Architecture / Governance touchpoints** with José Alfredo Ricárdez (Regional Architect LA&C)
+- **Fridays – team retro / weekly wrap-up + buddy 1:1**
+- **Monthly – Region 4 PMI Tech town hall** (Patricio)
+- **Quarterly – DISD reviews + PMI Tech all-hands**
+
+**Speaker notes:**
+Get used to a structured weekly rhythm. The Monday catch-up is sacred – it uses Eisenhower prioritization at the top to make sure we focus on the right things. You'll be invited as observers first, then as contributors.
+
+**Visual suggestions:**
+- Weekly calendar / Gantt-like view
+
+---
+
+## Slide 21 – Three things to remember (Week 1) 🧠
+
+**Layout suggestion:** Three big cards.
+
+**Key points:**
+1. **Purpose first** – every project ultimately serves "a smoke-free future"
+2. **We are a bridge** – IT CX translates between Commercial/CX and the tech ecosystem (DI&A, platforms, vendors)
+3. **OGSMs are our compass** – the 4 Excellence Pillars and the 2026 targets are how PMI Tech keeps score
+
+**Speaker notes:**
+If you remember only three things from today, remember these. Purpose first (so you always understand why a project matters). We are a bridge (so you always understand your role in the value chain). OGSMs are our compass (so you can always link your work to a measurable corporate outcome).
+
+**Visual suggestions:**
+- 3 large cards with bold headlines
+
+---
+
+## Slide 22 – Key acronyms & glossary 📚
+
+**Layout suggestion:** Two-column glossary.
+
+**Key points (suggested layout in two columns):**
+
+| Acronym | Meaning |
+|---|---|
+| **PMI** | Philip Morris International |
+| **PMI Tech** | Former IT function (rebrand 2025) |
+| **CX** | Consumer Experience (business function) |
+| **IT CX** | The Technology team supporting CX & Commercial |
+| **BU** | Business Unit (PMI International, PMI US, ASPEYA) |
+| **LA&C** | Latin America & Canada (Region 4) |
+| **OGSM** | Objective, Goal, Strategy, Measure |
+| **KI** | Key Initiative |
+| **BAU** | Business As Usual (post-project run/maintain) |
+| **RACI** | Responsible, Accountable, Consulted, Informed |
+| **DI&A** | Data, Insights & Analytics |
+| **DPaaS** | Data Platform as a Service (Snowflake-based) |
+| **DISD** | Digital Investment & Strategy Deployment (governance) |
+| **ePPM** | Enterprise Project Portfolio Management |
+| **BCS** | Business-Critical System |
+| **SFP** | Smoke-Free Products |
+| **IQOS / ZYN / VEEV** | PMI's smoke-free product brands |
+| **NYSE:PM** | PMI's stock ticker |
+
+**Speaker notes:**
+We'll add more acronyms next week (SIGA, IMDL, ePPM, LeanIX, Jira, ServiceNow…). For now, get comfortable with these. If you ever hear one you don't know – ask. There are zero stupid questions.
+
+**Visual suggestions:**
+- Clean two-column glossary table
+- Footer: "Add to your personal glossary throughout the program"
+
+---
+
+## Slide 23 – Week 1 deliverable 📝
+
+**Layout suggestion:** Single big call-out.
+
+**Key points:**
+- **Each intern produces a 1-page "PMI Org Map"** – your personal mental model of where IT CX sits and who the key stakeholders are
+- **Format:** Free choice (PowerPoint, Lucidchart, Miro, even hand-drawn)
+- **Due:** Friday EOB Week 1
+- **Review:** Monday Week 2 in our 1:1s (Ivan ↔ José Antonio; Lilia ↔ Diego)
+
+**Speaker notes:**
+This deliverable is intentionally lightweight – I want to see how you internalize the org and where you put IT CX. There's no right or wrong answer; it's a conversation starter for Week 2.
+
+**Visual suggestions:**
+- Sample wireframe of a 1-page org map
+- Deadline badge "Friday EOB"
+
+---
+
+## Slide 24 – Pre-reading & resources 📖
+
+**Layout suggestion:** Resource list with links / icons.
+
+**Key points (links to share in Teams):**
+- **PMI Tech Strategic Framework page** – "Our 2026 Objectives: Powering Possibility through IT Excellence" (PMI Tech SharePoint)
+- **PMI Tech 2026 Objectives Deep Dive PDF** (Brown, Matthew · Robichaud, Joan – Feb 2026)
+- **OGSM 1 Webcast – Drive Multi-Entity Portfolio Governance** (Nov 2025)
+- **DI&A Hub & Spoke Playbook – Introduction** (Baird, Deborah · Marchewka, Aleksandra)
+- **IT Resources Integration Plan to DI&A** (Kiersztan, Dariusz · Karimi, Reza – Nov 2025)
+- **PMI Tech Region 4 page** (Sandoval, Patricio)
+- **PMI Career Hub** – "The Deal" + Career Principles + Six Steps
+
+**Speaker notes:**
+Don't try to read all of this in one go. Skim each, bookmark the ones that resonate. We'll revisit several of them in Weeks 2–5.
+
+**Visual suggestions:**
+- Resource cards with thumbnails
+
+---
+
+## Slide 25 – Next steps & Q&A 🙋
+
+**Layout suggestion:** Split screen – next steps left, Q&A invitation right.
+
+**Key points:**
+**Next steps**
+- **Today:** Confirm IMDL/SIGA roles requested (Week 3 deep-dive, but request them now)
+- **By Wednesday:** Read the 3 prioritized pre-readings
+- **Friday:** Submit 1-page PMI Org Map
+- **Monday Week 2:** Move into IT CX Function Deep Dive
+
+**Q&A**
+- Any question – org chart, acronyms, stakeholders, the "why" behind anything you saw today
+- Don't hold questions – Teams chat & 1:1s are open
+
+**Speaker notes:**
+Use the rest of the week to digest. Set your weekly 1:1 cadence with your manager (José Antonio with me; Diego with Lilia). Add the recurring meetings to your calendars. Next Monday we move into the IT CX Function Deep Dive – you'll go from "where is IT CX" to "what does IT CX actually do day to day."
+
+**Visual suggestions:**
+- "Questions?" big text + an inviting illustration
+
+---
+
+# 📎 References & internal sources
+
+*All citations below come from internal PMI / PMI Tech SharePoint, Confluence, Teams, or Viva Engage. Use them as the citation backbone when fact-checking the deck.*
+
+1. **PMI Tech – "Our 2026 Objectives: Powering Possibility through IT Excellence"** – PMI Tech SharePoint, *2026-Objectives.aspx*, last modified Feb 23, 2026 (Brown, Matthew · Robichaud, Joan).
+2. **PMI-Tech-Objectives-Deep-Dive-2026-FINAL_Comm-Copy.pdf** – Feb 21, 2026 (Dura, Tomasz · Robichaud, Joan).
+3. **OGSM 1 Webcast – Delivery Excellence: Looking Back on 2025 & What's Next** – Nov 27, 2025 (Dura, Tomasz · Pozniak-Babula, Magdalena · Migda, Michal).
+4. **IT Resources Integration Plan to DI&A** – Nov 17, 2025 (Kiersztan, Dariusz · Rojas, Yahir).
+5. **DI&A Hub & Spoke Playbook – Introduction** – Aug 13, 2025 (Baird, Deborah).
+6. **DI&A Hub & Spoke Playbook v.Share** – July 21, 2025 (Herrera, Annick).
+7. **DI&A Market Integration – Onboarding Package** – Sep 18, 2025 (Marchewka, Aleksandra · Lapeyre, Anais).
+8. **PMI Tech Region 4** – PMI Tech SharePoint, *PMI-Tech-Region-4.aspx* (Van Jones, Jolinda · Brown, Matthew).
+9. **Patricio Sandoval | Director IT LA&C announcement** – Nov 5, 2024 (Klein, Guilherme · Kamal, Benazir).
+10. **IT Data Sr Lead CX** – Job description (Fuentes, Ivan · Garcia, Lorena – Feb 2026).
+11. **Q1 2026 Earnings – Smoke-Free 43% of Revenue** – Viva Engage, *Lozada, Bernadette*, April 24, 2026.
+12. **PMI 2025 Value Report & 2030+ Sustainability Strategy** – Viva Engage, *Kletsidou, Anna*, April 9, 2026.
+13. **Forbes Net Zero Leaders Roundup** – Viva Engage, *Hristov, Radoslav*, May 8, 2026.
+14. **"Believe" cultural anchor** – Viva Engage, *Roque, Maria*, May 20, 2026.
+15. **PMI Career Hub – Welcome page** – PMI P&C SharePoint, *1.0-Career-Hub-Home.aspx* (Arira, Vincent · Reedy, Jonathan).
+
+---
+
+# ✅ Checklist before generating the PPT with Claude
+
+- [ ] Confirm tone (corporate vs warm/intern-friendly) → recommended: **warm & intern-friendly**
+- [ ] Confirm slide count (target ~25 with cover + Q&A)
+- [ ] Confirm visual style (PMI Tech brand colors, light background, modern flat icons)
+- [ ] Confirm name spellings: **Arzate Martinez, José Antonio** · **Ochoa Paucic, Diego Alejandro** · **Fuentes, Ivan / Lilia** · **Garcia, Lorena** · **Sandoval, Patricio**
+- [ ] Decide which sources to embed as on-slide citations vs. only in the references appendix
+- [ ] Decide whether to keep speaker notes inside the PPT or as separate facilitation guide
+
+---
+
+*End of Week 1 MD pack. Weeks 2–6 will follow the same structure.*
