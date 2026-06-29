@@ -1,0 +1,637 @@
+# 🧭 IT CX Onboarding · Week 2
+## IT CX Function Deep Dive
+
+> **Source MD for Claude → PPT generation**
+> **Author:** Fuentes, Ivan – Lead IT Integration, PMI Tech / IT CX – Mexico
+> **Date:** June 2026
+> **Audience:**
+> - **Arzate Martinez, José Antonio** *(contracted)* – direct report to Ivan Fuentes, supporting **Availability** and other TBD tasks
+> - **Ochoa Paucic, Diego Alejandro** *(contracted)* – reporting to **Fuentes, Lilia** (general onboarding leveraged for both)
+> **Cohort:** IT CX Mexico Interns – Summer 2026
+
+---
+
+## How to use this document
+This Markdown file is the **content blueprint for Week 2** of the IT CX onboarding program. It follows the exact same scaffold as Week 1 so it can be fed directly into Claude (or any LLM-to-PPT generator) to produce a presentation deck. Each section follows the same structure:
+
+- **Slide N – Title**
+- **Layout suggestion**
+- **Key points** *(slide bullets)*
+- **Speaker notes** *(what Ivan will say)*
+- **Visual suggestions** *(what diagram/image/chart to include)*
+
+A short **References & internal sources** section is included at the end for traceability.
+
+---
+
+# 📑 Week 2 – Slide-by-slide content
+
+---
+
+## Slide 1 – Cover
+
+**Layout suggestion:** Title slide with PMI Tech brand colors and a subtle bridge / connection visual.
+
+**Key points:**
+- **Title:** IT CX Function Deep Dive
+- **Subtitle:** Week 2 · Who we are, what we do, how we work
+- **Presenter:** Fuentes, Ivan – Lead IT Integration (IT CX, LA&C / Mexico)
+- **For:** Arzate Martinez, José Antonio · Ochoa Paucic, Diego Alejandro
+- **Date:** June 2026
+
+**Speaker notes:**
+Welcome to Week 2. Last week we zoomed all the way out – PMI, PMI Tech, the regions, the Excellence Pillars, and the big OGSMs. This week we zoom into the specific function you've joined: **IT CX**. By the end of today you'll know what we do day to day, who our customers and partners are, how we measure ourselves, and where each of you fits in.
+
+**Visual suggestions:**
+- Bridge or "translator" metaphor (we are the bridge between business and tech)
+- Photo of IT CX team or LA&C Tech team
+- Subtle PMI Tech logo
+
+---
+
+## Slide 2 – Agenda
+
+**Layout suggestion:** Stepper with icons.
+
+**Key points:**
+1. Recap of Week 1 🔁
+2. What is IT CX? (definition + bridge concept) 🌉
+3. IT CX Purpose & Mission inside PMI Tech 🎯
+4. Our 4 core responsibilities 🧱
+5. Deep dive: each responsibility in detail 🔍
+6. The IT CX Mexico team 👥
+7. Our sponsors & stakeholders 🤝
+8. Our customers & our partners 🔗
+9. FPM vs ITPM – the two PM roles 👤👤
+10. ePPM stage-gates & DISD governance 🛂
+11. End-to-end Demand Management process ⚙️
+12. Tools we live in 🛠️
+13. KPIs & how we measure ourselves 📊
+14. Weekly rhythms ⏱️
+15. How each of you fits in 🎯
+16. Week 2 deliverable & next steps 📚
+
+**Speaker notes:**
+Today's session is denser than last week because we're moving from "context" to "operations." Take notes, ask questions live, and we'll close with a deliverable that helps you internalize what we discussed.
+
+**Visual suggestions:**
+- Numbered stepper or grid of icons
+
+---
+
+## Slide 3 – Recap of Week 1 🔁
+
+**Layout suggestion:** Single layered diagram (Business → IT CX → Tech/Data) reused from Week 1 slide 18.
+
+**Key points:**
+- PMI's purpose: **smoke-free future** · PMI Tech's mission: **Power Possibility**
+- 4 Excellence Pillars: Delivery · Service · Organizational · Financial
+- 2026 OGSMs: 100% KI delivery · Service maturity → 3.6 · Cyber Top Quartile · Digital Disruptor by 2028 · IT spend 3.2–3.5% of revenue
+- **IT CX = bridge** between Commercial / CX business and DI&A / tech platforms
+
+**Speaker notes:**
+Quick recap. PMI exists to deliver a smoke-free future; PMI Tech's mission is to power possibility – we turn business ambition into action through technology. Within PMI Tech, IT CX is the bridge between the Commercial / Consumer Experience business teams and the technology and data ecosystem (DI&A, platforms, vendors). Today we go one level deeper into what that bridge actually looks like in practice.
+
+**Visual suggestions:**
+- Re-use the layered diagram from Week 1
+- 4 small pillar icons across the bottom
+
+---
+
+## Slide 4 – What is IT CX? 🌉
+
+**Layout suggestion:** Single big definition slide with one supporting graphic.
+
+**Key points:**
+- **One-line definition:** *IT CX is the strategic bridge between PMI's Consumer & Commercial organization and the technical delivery teams – translating business needs into clear, actionable data & analytics solutions.*
+- We ensure **strong governance, documentation, and portfolio visibility** across the ITCX ecosystem
+- We work in **deep collaboration with DI&A**, platform owners, architects, and vendors
+
+**Speaker notes:**
+Memorize this definition. If anyone in PMI ever asks you "what does IT CX do?" – this is your one-liner. We are the **strategic bridge**. We translate. We govern. We deliver visibility. And we do it in tight collaboration with DI&A and the rest of PMI Tech.
+
+**Visual suggestions:**
+- Large bridge graphic with two endpoints labelled "Consumer & Commercial business" and "DI&A · Tech platforms · Vendors"
+- IT CX logo / badge at the center of the bridge
+
+---
+
+## Slide 5 – IT CX Purpose & Mission inside PMI Tech 🎯
+
+**Layout suggestion:** Two stacked banners (Purpose top, Mission bottom).
+
+**Key points:**
+- **IT CX Purpose:** enable Commercial & CX growth through fit-for-purpose data and digital solutions that support **PMI 2026 priorities: consumer-centricity, growth, and transformation**
+- **IT CX Mission:** translate Consumer/Commercial business needs into **clear, implementable requirements** – ensuring shared understanding, fast decisions, and measurable outcomes
+- We sit inside **PMI Tech – Region 4 LA&C – Mexico North Cluster**
+
+**Speaker notes:**
+Our purpose and mission line up directly with PMI Tech's. We enable consumer-centric growth and transformation in LA&C – specifically in Mexico for our team. The mission is operational: we translate business needs into **implementable requirements**. Notice the word "implementable" – that's the bar. A requirement that engineering can't act on isn't a requirement.
+
+**Visual suggestions:**
+- 2-tier banner stack
+- Tag with "Mexico · LA&C · PMI Tech"
+
+---
+
+## Slide 6 – Our 4 core responsibilities 🧱
+
+**Layout suggestion:** 2×2 quadrant.
+
+**Key points:**
+1. **Data Translator** for Projects and BAU
+2. **Data Governance & Architecture**
+3. **Consumer Insights & BI**
+4. **Demand Management**
+
+**Speaker notes:**
+Everything we do fits into one of these four buckets. Memorize them. They are the public face of IT CX: every job description, every project plan, every quarterly review references them. We'll spend the next four slides on each.
+
+**Visual suggestions:**
+- 4 quadrants with icons (chat bubble · shield · chart · kanban)
+- Color-coded so each can be referenced later
+
+---
+
+## Slide 7 – Responsibility #1 · Data Translator 💬
+
+**Layout suggestion:** Title left · key activities right.
+
+**Key points:**
+- Act as the **strategic bridge** between Consumer & Commercial business needs and delivery teams across IT, DI&A, and external partners/vendors
+- Translate Consumer goals into **clear, implementable requirements** – ensuring shared understanding and fast decisions
+- **Key tasks:**
+  - Identify the right data source for each need (system, vendor feed, dataset/view)
+  - Facilitate **discovery & requirement workshops**; turn business questions into epics/stories with acceptance criteria
+  - Coordinate day-to-day alignment with internal teams and vendors when clarifications are needed (e.g. API method, scope details, integration approach)
+
+**Speaker notes:**
+This is our most visible responsibility. Picture this: a brand manager says "I want to know which consumers respond to a flavor launch." Our job is to translate that into: which systems hold the data, what user stories we need, what acceptance criteria look like, who builds it, and how it ladders up to a business KPI. Every requirement workshop is a chance to either save the project weeks or burn weeks of rework later.
+
+**Visual suggestions:**
+- Workshop icon · arrows flowing from "Business question" → "Epic with acceptance criteria"
+- Example side-by-side: bad requirement vs good requirement
+
+---
+
+## Slide 8 – Responsibility #2 · Data Governance & Architecture 🛡️
+
+**Layout suggestion:** Two-column (Governance left · Architecture right).
+
+**Key points:**
+- Operationalize a governance model that ensures Consumer & Commercial data initiatives meet PMI's standards for **documentation, architecture, and traceability**
+- Collaborate with **DI&A architects** and **IT platform owners** to ensure solutions are modern, scalable, and aligned with enterprise architecture
+- **Key tasks:**
+  - Maintain an up-to-date **inventory of interfaces & applications** (apps + integrations + dependencies)
+  - Standardize "**definition of done**" – documentation + training + support handoff
+  - Ensure **traceability and governance** for integrations (formal lists of APIs/interfaces, ownership, change control)
+  - **Validate delivered solutions** with end users → feedback → backlog refinement
+
+**Speaker notes:**
+Without this, IT CX becomes a series of one-off deliveries that nobody can maintain. Architecture and governance is what makes our work survive past go-live. It's also what gives us credibility with InfoSec, Architecture Review Boards, and DI&A. Treat traceability as oxygen – without it, the value evaporates.
+
+**Visual suggestions:**
+- Shield icon for governance · gears icon for architecture
+- Mini diagram of an interface inventory
+
+---
+
+## Slide 9 – Responsibility #3 · Consumer Insights & BI 📊
+
+**Layout suggestion:** Pipeline diagram (data → dashboard → adoption).
+
+**Key points:**
+- Drive adoption and oversee the **delivery & lifecycle of data products and BI solutions** supporting Consumer & Commercial initiatives (analytics, engagement platforms, CRM insights, performance dashboards)
+- Ensure **value realization, adoption, and business impact**
+- Strengthen collaboration with DI&A teams to clarify goals, benefits, and the data sources driving decisions
+- **Key tasks:**
+  - Drive end-to-end delivery/enhancements of Consumer insights and BI (roadmap, prioritization, release readiness, adoption follow-up)
+  - Co-define **KPIs and success metrics** with DI&A and business owners
+  - Track **adoption and business impact**; run enablement sessions and "how to use" playbooks
+  - Maintain an **inventory of Consumer reports & dashboards** (owner, purpose, refresh cadence, sources, audience) to reduce duplication
+
+**Speaker notes:**
+Building a dashboard is the easy part. Driving adoption is the hard part. Our job is not "delivery" – it's "value realization." A dashboard nobody uses is a cost; a dashboard that changes how the business decides is value. Always close the loop with the business owner: did we move a KPI? If not, why?
+
+**Visual suggestions:**
+- Funnel: Sources → Pipeline → Dashboard → Decision → Outcome
+- Three small dashboard mockups for IQOS-related KPIs
+
+---
+
+## Slide 10 – Responsibility #4 · Demand Management ⚙️
+
+**Layout suggestion:** Kanban-style flow.
+
+**Key points:**
+- Lead **intake, prioritization, and portfolio visibility** for Consumer CX / data requests
+- Build **transparency and predictable delivery** using structured demand management practices; scale standards across LA&C when applicable (process, KPIs, dashboards)
+- **Key tasks:**
+  - Maintain a **transparent prioritized backlog** in Jira
+  - Run structured intake / refinement
+  - Define prioritization criteria with stakeholders: **value · risk · compliance · effort · dependencies**
+  - Remove blockers and communicate delivery progress
+  - Expand demand management standards/tooling to support broader LA&C
+- **Reference framework:** *IT DATA Demand Management Framework* (LA Region, Dec 2025, Cruz Jonas K. & Fuentes Ivan)
+
+**Speaker notes:**
+Demand management is IT CX's operating system. Without it we're reactive. With it we're predictable, transparent, and trusted. The current framework lives in our SharePoint and we'll walk through it as a working session in a few slides. Every ticket you'll see in Jira is the output of this discipline.
+
+**Visual suggestions:**
+- Mini Kanban with 4–5 columns (Intake · Triaged · In Progress · UAT · Done)
+- Reference logo / badge: "IT DATA Demand Management Framework v1"
+
+---
+
+## Slide 11 – The IT CX Mexico team 👥
+
+**Layout suggestion:** Org chart with photos / initials cards.
+
+**Key points:**
+- **Garcia, Lorena** – Manager IT CX LA&C Consumer (Ivan's manager)
+- **Fuentes, Ivan** *(presenter)* – Lead IT Integration · José Antonio's manager
+- **Fuentes, Lilia** – IT CX teammate · Diego's manager
+- **Cano, Sergio** – Sr Enterprise Data Architect (now in DI&A spoke after Jan 2026 transition; still a top collaborator)
+- **Gomez, Alejandro** – Regional DE Manager · top collaborator (Availability stakeholder)
+- **Arevalo, Tirsa** *(contracted)* – top collaborator · candidate Buddy for José Antonio
+- **Skip manager:** **Sandoval, Patricio** – Director PMI Tech R4
+
+**Speaker notes:**
+This is your immediate circle. Lorena leads the broader IT CX team for LA&C Consumer; Lilia, Sergio, Alejandro, Tirsa, and I are the people you'll work with daily. After the Jan 2026 IT-to-DI&A transition, Sergio moved into the Mexico DI&A spoke – but he's still a top collaborator, especially on Availability. Don't be shy reaching out to anyone here.
+
+**Visual suggestions:**
+- Org chart with reporting lines
+- Color-code by reporting line (Ivan in red, Lilia in green)
+
+---
+
+## Slide 12 – Our sponsors & stakeholders 🤝
+
+**Layout suggestion:** Stakeholder map (concentric circles: Mexico → LA&C → Global).
+
+**Key points:**
+- **Mexico business sponsors:**
+  - **Benavides, Oscar** – Director Consumer Experience Mexico
+  - **De Alencar, Leonardo** – Director SFP (Smoke-Free Products) Mexico
+  - **Ricardez, José Alfredo** – Director IT Mexico (& Regional Architect LA&C)
+- **Mexico Product Owners we partner with:**
+  - **Ríos, Maura** – Product Owner Voice of Consumer / CX Profiling (Omnichannel 360 FPM)
+- **LA&C regional layer:**
+  - **Sandoval, Patricio** – Director PMI Tech Region 4
+  - **Kerr, Michael** – IT Portfolio Manager · Manager IT Consumer Deployment LA&C
+- **Mexico DI&A spoke (partner):**
+  - **Marines, Patricia** – Head DI&A Spoke Mexico
+
+**Speaker notes:**
+Sponsors fund what we do; stakeholders use what we build. Memorize these names. José Alfredo Ricardez wears two hats – Director IT Mexico AND Regional Architect for LA&C – which makes him uniquely powerful for our governance discussions. Maura is the FPM for Omnichannel 360, our flagship CX project; she'll be a regular partner.
+
+**Visual suggestions:**
+- Concentric stakeholder map (Mexico inner · LA&C middle · Global outer)
+- Photos / initials cards with role
+
+---
+
+## Slide 13 – Our customers (the Business) 🏢
+
+**Layout suggestion:** Tiles for each customer function.
+
+**Key points:**
+- **Brand & Marketing** – campaign analytics, segment performance, share of voice
+- **Sales (B2B & Trade)** – Indirect Retail targeting, segmentation, route to market
+- **Trade Engagement** – Field force, NBA (Next Best Action), DTE (Digital Trade Engagement)
+- **Consumer Engagement / Care** – CRM insights, virtual agent / consumer journeys
+- **Loyalty** – Together Club, MGM, NBA, redemption analytics
+- **Multicategory CX** – Poly-users, ZYN safety-net, cross-category KPIs
+
+**Example business questions we translate every week:**
+- "Which IQOS consumers are likely to churn next quarter?"
+- "What's the impact of OXXO sell-out on weekly availability?"
+- "How many poly-users converted to ZYN after the last campaign?"
+
+**Speaker notes:**
+These are the people who pay our salaries (commercially speaking). Our job is to make their lives easier. The three example questions are real – they came from actual Maura, Oscar, and brand-side conversations. Notice each requires us to translate vague business language into something an engineer can build.
+
+**Visual suggestions:**
+- 6 tiles for the 6 customer groups
+- Question bubble graphics for the example questions
+
+---
+
+## Slide 14 – Our partners (the Tech & Data ecosystem) 🔗
+
+**Layout suggestion:** Network diagram with IT CX at center.
+
+**Key points:**
+- **DI&A Mexico Spoke** – Patricia Marines (Head), Daniel Diaz (Mgr Data Enablement), Oscar Sanchez Galvis (Enterprise Data Architect CCA)
+- **Architecture** – José Alfredo Ricardez (Regional Architect LA&C), Domain Architects via LeanIX
+- **Platform owners** – Snowflake/DPaaS, Salesforce / CRM, AEM, BI workspaces
+- **Vendors** (Run & Support / Build):
+  - **BPO & Technology** – Daniel Reyes & team
+  - **Coforge** – Run & Support for several BI assets
+  - Other tactical vendors per project
+- **Other PMI Tech functions** – Service Excellence, InfoSec, Vendor Mgmt, Strategic Sourcing
+
+**Speaker notes:**
+We don't deliver alone. Every project is a coalition – DI&A builds the data, architects bless the design, vendors execute, InfoSec gates security, and we orchestrate. Learn the names and their domains; you'll save weeks of "who do I ask?" later.
+
+**Visual suggestions:**
+- Network graph with IT CX at center, partners as nodes
+- Color-code internal vs external partners
+
+---
+
+## Slide 15 – FPM vs ITPM · the two PM roles at PMI 👤👤
+
+**Layout suggestion:** Side-by-side comparison (2 columns).
+
+**Key points:**
+
+| Topic | **Functional PM (FPM)** | **IT PM (ITPM)** |
+|---|---|---|
+| Focus | Business outcomes & benefits | Technology delivery & execution |
+| Accountability | Business case · benefits realization · stakeholder alignment | Tech scope · timeline · budget · quality |
+| Reports to | Functional business sponsor | PMI Tech (e.g. Manager IT CX) |
+| Key Artifacts | Business case · BRD · benefit tracker | Architecture · backlog · cutover plan |
+| Why it matters | Owns the **WHY** & the **WHAT** | Owns the **HOW** |
+
+- **Both roles agreed BEFORE Gate 3** (G3) in the ePPM stage-gate process
+- **Example today:** Omnichannel 360 – **FPM: Maura Ríos** · **ITPM: Ivan Fuentes**
+
+**Speaker notes:**
+This is one of the most common confusions for newcomers. The FPM owns business outcomes; the ITPM owns delivery. They are **peers**, not boss/subordinate. PMI mandates the two roles be agreed at Gate 3 of every project. For Omnichannel 360 today, I'm the ITPM and Maura is the FPM – we co-own the project from different angles.
+
+**Visual suggestions:**
+- Side-by-side cards
+- Footer: "Reference: ITPM Fundamentals · Migda M., Duarte M., Hany A."
+
+---
+
+## Slide 16 – ePPM stage-gates · how a project travels 🛂
+
+**Layout suggestion:** Horizontal stage-gate diagram (G0 → G6).
+
+**Key points:**
+- **ePPM** = Enterprise Project Portfolio Management (PowerPPM PRD on Power BI)
+- **Stage gates:**
+  - **G0** – Demand qualification (idea + initial business case)
+  - **G3** – Business Case approval (full funding decision; ROLES MUST BE FINAL)
+  - **G4 → G5** – Build & Deployment readiness
+  - **G6** – Closure (benefits realization handover)
+- Every project has an ePPM record updated **monthly** with cost, benefits, schedule, BAU, objectives
+- FPM and ITPM **collaborate at every gate**
+
+**Speaker notes:**
+Every PMI Tech project lives in ePPM. The system enforces a stage-gate discipline that protects investments and benefits. The most important gate for FPM/ITPM is **G3** – this is where the business case is approved and roles are finalized. After G3, ITPM owns execution; FPM owns benefits realization. We'll touch on Service Lifecycle and benefits realization in detail in Week 5.
+
+**Visual suggestions:**
+- Stage-gate "fish bone" graphic G0 → G6
+- Annotate G3 with "ROLES MUST BE FINAL"
+
+---
+
+## Slide 17 – DISD governance & monthly portfolio reviews 🗳️
+
+**Layout suggestion:** Pyramid (Central DISD top · Category/Functional/Regional DISDs middle · Project DISDs bottom).
+
+**Key points:**
+- **DISD** = Digital Investment & Strategy Deployment Committee
+- Central DISD reviews **top strategic investments** & monitors **G0/G3 approvals**
+- Category/Functional/Regional DISDs prioritize portfolio at their level
+- Monthly portfolio review with **S&PD, Finance BPs, IT Portfolio Managers** – we update RAG status, financials, benefits
+- ePPM is the **system of record**; deviations & change logs are tracked
+- **Region 4 LA&C DISD chair:** rotates per portfolio review (Patricio Sandoval & business leads)
+
+**Speaker notes:**
+DISD is the governance that keeps PMI's IT investments aligned with corporate strategy. As IT CX, our projects flow through the LA&C Regional DISD and – if big enough – through the Central DISD. Every month, we run a portfolio review where we explain status, financials, and benefits. Get used to seeing acronyms like ePPM cutoff, RAG status, LE (Latest Estimate), and change logs.
+
+**Visual suggestions:**
+- Pyramid diagram
+- Mini calendar with monthly DISD cadence
+
+---
+
+## Slide 18 – End-to-end Demand Management process ⚙️
+
+**Layout suggestion:** Horizontal 9-step process flow.
+
+**Key points (9 steps):**
+1. **Submit demand** (intake form / Jira ticket)
+2. **Define requirements** (workshops · BRD · stories with acceptance criteria)
+3. **Prioritization** (value · risk · compliance · effort · dependencies)
+4. **Estimation** (vendor estimate · capacity check)
+5. **Sprint planning** (slot into vendor sprints)
+6. **Development** (vendor + DI&A)
+7. **UAT** (business validates)
+8. **Deploy to PRD** (release management)
+9. **Close & communicate** (adoption + benefits + retro)
+
+**RACI summary:**
+- **Business Stakeholders** – submit & validate
+- **DI&A Business Partner / Engineer / PBI Developer** – design & build
+- **IT Data Service Manager / Demand Manager** – orchestrate · prioritize · escalate (this is Ivan)
+- **IT Vendor (BPO & Tech / Coforge)** – execute build
+- **Business Owner** – sign-off & benefits realization
+
+**Speaker notes:**
+This is the workflow you'll see every week. Steps 1–3 are where IT CX adds the most value. Steps 4–6 are where vendors do the heavy lifting. Steps 7–9 are where business validates and we measure value. We'll trace one real ticket through this process during your shadowing week.
+
+**Visual suggestions:**
+- 9-step horizontal swimlane
+- RACI grid below
+
+---
+
+## Slide 19 – Tools we live in 🛠️
+
+**Layout suggestion:** Logo grid · 4×3.
+
+**Key points:**
+- **Jira** – backlog, sprints, demand tickets *(primary work surface)*
+- **Confluence** – documentation
+- **ServiceNow / InteracT** – incidents, service requests, role management
+- **Snowflake / DPaaS** – enterprise data platform
+- **Power BI** – dashboards & report distribution
+- **SharePoint / OneDrive** – file & document management
+- **Microsoft Teams** – collaboration, recurring meetings, chat
+- **Outlook** – email, calendar
+- **SIGA / IMDL** – access & role management (Week 3 deep dive)
+- **LeanIX** – architecture inventory
+- **ePPM** – project portfolio management
+- **Specific dashboard:** **IT_DATA_DEMAND_MANAGEMENT_MX** (Power BI report we'll show next slide)
+
+**Speaker notes:**
+You'll spend most of your hours in Jira, Confluence, Power BI, Teams, and Outlook. We'll request access to all of these in Week 3 through SIGA/IMDL. For now, just get familiar with the logos so you recognize them in meetings.
+
+**Visual suggestions:**
+- 4×3 logo grid with tool name underneath
+
+---
+
+## Slide 20 – How we measure ourselves 📊
+
+**Layout suggestion:** Dashboard screenshot + KPI tiles.
+
+**Key points (KPIs we track via IT_DATA_DEMAND_MANAGEMENT_MX dashboard):**
+- **Backlog progress** by status (Open · In Progress · UAT · Done) per quarter
+- **Days open per phase** (Requirements · Build · UAT) – aging indicator
+- **Status per ticket per phase** – RAG view
+- **Vendor capacity utilization** – per vendor, per sprint
+- **Residual capacity** – how much we still have available for new demand
+- **% of backlog with completed acceptance criteria**
+- **Adoption metrics** – per BI asset (unique users, refresh rate, query count)
+
+**Speaker notes:**
+We can't improve what we don't measure. The IT_DATA_DEMAND_MANAGEMENT_MX Power BI report is our scoreboard. Every Monday during catch-up we look at it. It's also what we present in LA&C Regional DISD reviews. You'll get read access in Week 3.
+
+**Visual suggestions:**
+- Mock-up of the dashboard with 4–6 KPI tiles + bar chart
+
+---
+
+## Slide 21 – Weekly rhythms inside IT CX ⏱️
+
+**Layout suggestion:** Weekly calendar view (Mon–Fri).
+
+**Key points:**
+- **Mondays – Catch-up structure** (with Eisenhower prioritization at the top): Availability · Omnichannel 360 / Consumer 360 · AI Domain (SAIL & Newsletter) · Brick Loyalty · Others
+- **Tuesdays / Wednesdays** – stakeholder syncs (CX, Brand, Marketing, Sales, DI&A)
+- **Thursdays** – Architecture / Governance touchpoints with José Alfredo Ricárdez (Regional Architect LA&C)
+- **Fridays** – team retro · weekly wrap-up · buddy 1:1 (José Antonio with Tirsa; Diego TBD)
+- **Monthly** – Region 4 PMI Tech Town Hall (Patricio Sandoval)
+- **Quarterly** – DISD reviews · PMI Tech All-Hands
+
+**Speaker notes:**
+Get used to a structured weekly rhythm. The Monday catch-up uses Eisenhower (Urgent/Important matrix) at the top to make sure we focus on the right things. The 4–5 recurring threads – Availability, Omnichannel 360, AI Domain, Brick Loyalty, Others – are the topics we keep alive week to week. José Antonio, you'll observe these first and contribute from Week 3 onwards.
+
+**Visual suggestions:**
+- Weekly calendar grid
+- Eisenhower matrix small inset
+
+---
+
+## Slide 22 – How José Antonio fits in 🎯
+
+**Layout suggestion:** Single project card with stakeholder map.
+
+**Key points:**
+- **Reports to:** Fuentes, Ivan (Lead IT Integration)
+- **Primary focus area:** **Availability 360** workstream
+- **Project stakeholders to know:**
+  - **Sánchez, Magdalena** – Commercial Sponsor (Availability)
+  - **Schulthess, Eric** – IT Sponsor (Availability)
+  - **Ricardez, José Alfredo** – Tech Lead / Regional Architect
+  - **Fuentes, Ivan** – IT Consumer Sr Manager (ITPM)
+  - **Vergara, Samuel** – Project Manager
+  - **Gomez, Alejandro** – Regional DE Manager
+  - **Cano, Sergio** – Sr Enterprise Data Architect
+  - **Reyes, Daniel** *(BPO & Tech)* – Vendor build lead
+  - **Arevalo, Tirsa** *(contracted)* – top collaborator · Buddy candidate
+- **Other TBD tasks** – to be defined as you ramp up
+
+**Speaker notes:**
+José Antonio – your first real assignment is to embed into the Availability 360 workstream. You'll meet all these people in the first two weeks. Use shadowing to learn their language, then start contributing by Week 4. Other tasks will come once you've shown traction on Availability.
+
+**Visual suggestions:**
+- Stakeholder map with photos/initials
+- "Availability 360" project badge
+
+---
+
+## Slide 23 – How Diego fits in 🎯
+
+**Layout suggestion:** Single card with Lilia's portfolio.
+
+**Key points:**
+- **Reports to:** Fuentes, Lilia (IT CX teammate)
+- **Lilia's portfolio includes:** Wallet · DCX Migration · Loyalty integrations · AI Governance · Service Management transition · other Mexico CX projects
+- **General onboarding** (Weeks 1–6) applies fully to Diego
+- **Specific deep-dive** with Lilia happens in dedicated 1:1s and project shadowing sessions
+- **Suggested first step:** shadow Lilia's Monday and Thursday meetings · pick one project to deepen by Week 4
+
+**Speaker notes:**
+Diego – you report to Lilia, so your specific project priorities will be set by her. The general onboarding we're running covers what every IT CX teammate needs to know regardless of project assignment. Use Weeks 1–6 to build the baseline, then sync with Lilia weekly to layer in your specific work.
+
+**Visual suggestions:**
+- Card with Lilia's portfolio
+- Note: "Lilia will run her own deep-dive in parallel"
+
+---
+
+## Slide 24 – Three things to remember (Week 2) 🧠
+
+**Layout suggestion:** Three big cards.
+
+**Key points:**
+1. **IT CX is a bridge** – between business and tech, translation is our job
+2. **Four responsibilities define us** – Translator · Governance · Insights/BI · Demand Mgmt
+3. **Demand Management is our operating system** – Jira backlog + intake + prioritization is what keeps us predictable and trusted
+
+**Speaker notes:**
+If you remember only three things from today, remember these. The first defines our identity. The second defines our scope. The third defines our discipline. Everything else flows from there.
+
+**Visual suggestions:**
+- 3 large cards with bold headlines
+- Bridge · 4-square · gear icons
+
+---
+
+## Slide 25 – Week 2 deliverable · pre-reading · next steps 📚
+
+**Layout suggestion:** Split screen.
+
+**Key points:**
+**Deliverable (due Friday EOB Week 2):**
+- A 1-page **"IT CX Service Map"** identifying the 4 responsibilities with **one real example** each from the current portfolio (e.g. Availability 360, Omnichannel 360, Brick Loyalty)
+
+**Pre-reading:**
+- *IT Data Sr Lead CX* – job description (Fuentes I. / Garcia L., Feb 2026)
+- *IT DATA Demand Management Framework* – LA Region (Cruz J.K. / Fuentes I., Dec 2025)
+- *ITPM Fundamentals* – PMI Tech (Migda M. / Duarte M. / Hany A.)
+- *Tech & Business Partnering Handbook v.1* (March 2026)
+
+**Next week:**
+- **Week 3 – PMI Software Landscape & Access Management** (SIGA, IMDL, Snowflake/DPaaS, BI tools, request your access)
+
+**Speaker notes:**
+Pick one project per responsibility and explain how the responsibility plays out there. Free format – PowerPoint, Lucidchart, even hand-drawn. We'll review on Monday Week 3 in our 1:1s. Pre-reading is intentionally light; we'll go deep on access management next week so you can become operationally independent.
+
+**Visual suggestions:**
+- Deliverable wireframe
+- Resource cards with thumbnails
+
+---
+
+# 📎 References & internal sources
+
+*All citations below come from internal PMI / PMI Tech SharePoint, Confluence, Teams, or Viva Engage. Use them as the citation backbone when fact-checking the deck.*
+
+1. **IT Data Sr Lead CX** – job description, Feb 2026 (Fuentes, Ivan · Garcia, Lorena).
+2. **IT DATA Demand Management Framework** – LA Region, Dec 2025 (Cruz, Jonas Knipphoff da · Fuentes, Ivan).
+3. **Transition Document Data Demand Process V2** – Fuentes, Ivan.
+4. **IT_DATA_DEMAND_MANAGEMENT_MX** – Power BI report.
+5. **IT Demand & Portfolio Management** – PMI Tech SharePoint, *Demand-Management-Home.aspx*.
+6. **IT Portfolio management PMI process & governance** – Sep 12, 2025 (Bayraktar Turkoglu, Basak · Skrzypek-Oles, Joanna).
+7. **ITPM Fundamentals** – Knowledge module (Migda, Michal · Duarte, Miguel · Hany, Ahmed).
+8. **The Importance of Distinct Roles for Functional and IT Project Managers** – Rychlik, Maciej.
+9. **PMI Tech U.S. – Project Roles and Responsibilities** – PMI Tech SharePoint (Borici, Genti).
+10. **Tech & Business Partnering BTM/EP Handbook V.1** – March 2026.
+11. **Kickoff – Availability 360** – Zarate, Hector · Gomez, Alejandro.
+12. **Omnichannel 360 view – Stakeholder Agreement** – Dura, Tomasz · Escamilla, Julio.
+13. **ITCX Projects 2025** – Garcia, Lorena · Morales, Santiago.
+14. **IT AMERICAS SHARING SESSION** – February 6, 2026.
+15. **Welcome to IT Project Navigator** – PMI Tech SharePoint, *Project-Navigator.aspx* (Rychlik M. · Dura T.).
+
+---
+
+# ✅ Checklist before generating the PPT with Claude
+
+- [ ] Confirm tone: **warm & intern-friendly** (recommended) vs corporate
+- [ ] Confirm slide count: **target ~25** + cover
+- [ ] Confirm visual style: PMI Tech brand colors · light background · modern flat icons (Fluent or Lucide)
+- [ ] Confirm name spellings: **Arzate Martinez, José Antonio** · **Ochoa Paucic, Diego Alejandro** · **Fuentes, Ivan / Lilia** · **Garcia, Lorena** · **Sandoval, Patricio** · **Ricardez, José Alfredo** · **Ríos, Maura** · **Sánchez, Magdalena** · **Schulthess, Eric** · **Reyes, Daniel** · **Arevalo, Tirsa** · **Cano, Sergio** · **Gomez, Alejandro** · **Vergara, Samuel** · **Marines, Patricia** · **Diaz, Daniel** · **Sanchez Galvis, Oscar** · **Benavides, Oscar** · **De Alencar, Leonardo** · **Kerr, Michael** · **Cruz, Jonas Knipphoff da**
+- [ ] Decide whether to keep speaker notes inline or in PPT Notes pane (recommended: Notes pane)
+- [ ] Decide which slides to anonymize for external sharing
+
+---
+
+*End of Week 2 MD pack. Weeks 3–6 will follow the same structure.*
